@@ -1,1 +1,1 @@
-# Git-harjoitus
+Git-harjoitus
